@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Dogs-VS-Cats/dogs_and_cats.h5 filter=lfs diff=lfs merge=lfs -text
